@@ -1,0 +1,27 @@
+{
+  "name": "latihan-adhan",
+  "version": "0.0.1",
+  "description": "menampilkan waktu solat untuk daerah Solo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhammadafiqyunanto27/learn-npm.git"
+  },
+  "keywords": [
+    "learn",
+    "npm",
+    "javaScript"
+  ],
+  "author": "Muhammad Afiq Yunato",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muhammadafiqyunanto27/learn-npm/issues"
+  },
+  "homepage": "https://github.com/muhammadafiqyunanto27/learn-npm#readme",
+  "dependencies": {
+    "adhan": "^4.4.3"
+  }
+}
